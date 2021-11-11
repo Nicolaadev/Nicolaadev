@@ -2,7 +2,7 @@
 
 ## I'm a discord bot developer
 
-- 🔭 I just make a rythm bot
+- 🔭 I just make a rhythm bot
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Let my discord bot get verified
