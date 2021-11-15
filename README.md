@@ -10,7 +10,5 @@
 `🎁` [dasu](https://discord.com/api/oauth2/authorize?client_id=875563372974850059&permissions=36752704&scope=bot), rythm bot remake by a tomato. <br />
 `🎎`hope my bot can get verified.<br />
 <br />
-<br />
-
 `🎄`**README.md ideas from Luna**
 
