@@ -4,7 +4,7 @@
 `💖` My pronouns are **@he/him**  <br />
 `📜` I learn node.js and python, my python kinda bad. <br>
 `🌏` I live on Earth. <br>
-`💜` I am . &lt;3 <br />
+`💜` I love  . &lt;3 <br />
 `🎉` I am only 1000 year old. <br>
 <br />
 `🎁` [dasu](https://discord.com/api/oauth2/authorize?client_id=875563372974850059&permissions=36752704&scope=bot), rythm bot remake by a tomato. <br />
