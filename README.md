@@ -1,31 +1,17 @@
-### <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="20" height="20" /> 
-I'm a discord bot developer
+# <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> **Heyhow girls** （っ＾▿＾）
 
-- 🔭 I just make a rhythm bot
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Let my discord bot get verified
-- ⚡ Fun fact: I love to sing
-
-### Connect with me:
-
-https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif
+`💖` My pronouns are **@she/her** and **@any** <br />
+`📜` I am a hobby Full-stack developer. <br>
+`🔗` My shiny site: [luna.lolis.life](https://xyna.space/@Luna?ref=github.com). <br>
+`🌏` I live on Earth. <br>
+`💜` I am Lesbian. &lt;3 <br />
+`🎉` I am 14y/o. <br>
 <br />
-
-### Languages and Tools:
-
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vsc]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][js]
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][node]
-[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][db]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][gh]
-
+`🤖` [discord-botlist.eu](https://discord-botlist.eu/?ref=xyna.space/@Luna), your discord bot list. <br>
+`📁` [tixte](https://discord.gg/cFZM3EJ3hS), a free and easy way to store your files in the cloud. <br>
+`🎁` [dasu](https://discord.com/oauth2/authorize?client_id=525748238255390721&permissions=322785&scope=bot%20applications.commands), utilize powerful rules and control your giveaways. <br />
 <br />
 <br />
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/821472922140803112?theme=dark&bg=242430&animated=true&idleMessage=Probably%20sleepingng%20right%20now..)](https://discord.com/users/821472922140803112)
 
-[vsc]: https://code.visualstudio.com
-[js]: https://www.javascript.com
-[node]: https://nodejs.org/en/
-[db]: https://www.mongodb.com
-[gh]: https://github.com
 
