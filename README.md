@@ -5,9 +5,11 @@
 
 - 🌱 I’m currently learning **JavaScript, JavaScript Library and Python**
 
+- ⚒️ I’m working on a monitor bot which can host a project using a link!
+
 - 💬 Ask me about **React.js and Discord.js**
 
-- 📫 How to reach me **Discord username: Nicol#1624**
+- 📫 How to reach me **Discord username: Nicol#1624** or join my [Discord server](https://discord.gg/W6FfCHPNGq)
 
 - ⚡ Fun fact **I have so many typo**
 
