@@ -6,7 +6,7 @@
   
   <div align="left">
 <a href="https://app.daily.dev/Nicola">
-  <img src="https://api.daily.dev/devcards/3c17d69e72844120a3176cb7721187a1.png?r=wso" width="300" alt="Nicola's Dev Card" align="right"/>  
+  <img src="https://api.daily.dev/devcards/3c17d69e72844120a3176cb7721187a1.png?r=znh" width="300" alt="Nicola's Dev Card" align="right"/>  
 </a>
 </div>
 
